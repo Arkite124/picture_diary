@@ -1,4 +1,5 @@
 .env
+!outputs/2026-05-26/scene_01.png
 .venv/
 outputs/
 __pycache__/
@@ -6,4 +7,3 @@ __pycache__/
 *.pyc
 *.png
 *.mp4
-!outputs/2026-05-26/scene_01.png
