@@ -9,7 +9,7 @@ python pipeline.py
 ```
 
 ## 결과 미리보기
-![scene_01](outputs/2026-05-26/scene_01.png)
+![scene_01](sample_readme\scene_01.png)
 
 ## 운영 지표
 

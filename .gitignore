@@ -1,5 +1,4 @@
 .env
-!outputs/2026-05-26/scene_01.png
 .venv/
 outputs/
 __pycache__/
