@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "scene_kr": "버스 좌석에 앉아 졸고 있는 모습.",
+      "prompt_en": "A person dozing off in a bus seat, leaning against the wall.",
+      "shot": "medium shot",
+      "angle": "eye-level",
+      "lighting": "fill light",
+      "lens": "35mm"
+    },
+    {
+      "scene_id": 2,
+      "scene_kr": "컴퓨터 앞에서 게임을 하는 모습.",
+      "prompt_en": "A person intensely playing a game at a computer desk.",
+      "shot": "wide shot",
+      "angle": "eye-level",
+      "lighting": "key light",
+      "lens": "50mm"
+    },
+    {
+      "scene_id": 3,
+      "scene_kr": "바다 속 돌고래들이 산호 위를 지나가는 장면.",
+      "prompt_en": "Dolphins swimming over coral in the ocean.",
+      "shot": "wide shot",
+      "angle": "high angle",
+      "lighting": "golden hour",
+      "lens": "24mm"
+    },
+    {
+      "scene_id": 4,
+      "scene_kr": "갯바위에서 낚시하는 낚시꾼의 모습.",
+      "prompt_en": "A fisherman on a rocky shore casting his line.",
+      "shot": "medium shot",
+      "angle": "eye-level",
+      "lighting": "back light",
+      "lens": "85mm"
+    }
+  ]
+}

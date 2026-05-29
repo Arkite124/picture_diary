@@ -1,0 +1,35 @@
+{
+  "domain": "travel",
+  "version": "day5-self1",
+  "prompt_style": {
+    "shot": "medium shot",
+    "angle": "eye-level",
+    "lighting": "soft window light, warm sunset light",
+    "lens_or_style": "50mm lens, soft watercolor illustration",
+    "mood": "calm, nostalgic, peaceful, dreamy travel diary mood"
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "diary_sentence": "버스 좌석에 앉아 창가에 기대어 졸면서 갔다.",
+      "visual_focus": "a sleepy person leaning against a bus seat beside a window",
+      "prompt_addons": [
+        "medium shot",
+        "eye-level",
+        "soft window light"
+      ],
+      "negative_prompt": "harsh light, blurry face, distorted body, crowded background, low quality"
+    },
+    {
+      "id": "scene_02",
+      "diary_sentence": "창밖의 따뜻한 빛이 조용히 얼굴 위로 스며들었다.",
+      "visual_focus": "warm sunset light softly falling on a sleeping passenger's face",
+      "prompt_addons": [
+        "50mm lens",
+        "warm sunset light",
+        "dreamy watercolor travel diary mood"
+      ],
+      "negative_prompt": "overexposed light, scary mood, messy background, distorted hands, noisy details"
+    }
+  ]
+}
