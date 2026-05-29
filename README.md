@@ -37,16 +37,19 @@ python pipeline.py
 
 `domains/travel_prompts.json` — 여행 일기 도메인 적용 결과
 
-| 장면 | 설명 |
-|---|---|
-| scene_01 | 버스 좌석에 앉아 창가에 기대어 졸면서 갔다. (
-        "medium shot",
-        "eye-level",
-        "soft window light") |
-| scene_02 | 창밖의 따뜻한 빛이 조용히 얼굴 위로 스며들었다. (
-        "50mm lens",
-        "warm sunset light",
-        "dreamy watercolor travel diary mood") |
+| 장면       | 설명                          | 프롬프트 어휘                                                                     |
+| -------- | --------------------------- | --------------------------------------------------------------------------- |
+| scene_01 | 버스 좌석에 앉아 창가에 기대어 졸면서 갔다.   | `medium shot`<br>`eye-level`<br>`soft window light`                         |
+| scene_02 | 창밖의 따뜻한 빛이 조용히 얼굴 위로 스며들었다. | `50mm lens`<br>`warm sunset light`<br>`dreamy watercolor travel diary mood` |
+
+`domains/outputs.json` - 생성 결과
+| scene_id | scene_kr | prompt_en | shot | angle | lighting | lens |
+|---:|---|---|---|---|---|---|
+| 1 | 버스 좌석에 앉아 졸고 있는 사람. | A person dozing off while sitting on a bus seat. | medium shot | eye-level | golden hour | 35mm |
+| 2 | 버스 창 밖으로 보이는 노을. | A sunset view seen through the bus window. | wide shot | eye-level | golden hour | 24mm |
+| 3 | 사람이 벽에 기대고 있는 모습. | A person leaning against the wall of the bus. | bust shot | eye-level | fill light | 50mm |
+| 4 | 버스 내부의 평화로운 분위기. | The peaceful atmosphere inside the bus. | wide shot | high angle | key light | 85mm |
+
 
 ## 파일 구조
 
