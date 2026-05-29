@@ -1,8 +1,8 @@
 .env
 .venv/
 outputs/
+outputs/*.png
 __pycache__/
 .DS_Store
 *.pyc
-*.png
 *.mp4
