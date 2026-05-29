@@ -9,7 +9,7 @@ python pipeline.py
 ```
 
 ## 결과 미리보기
-![scene_1](outputs/2026-05-26/scene_01.png)
+![scene_01](outputs/2026-05-26/scene_01.png)
 
 ## 운영 지표
 
@@ -39,10 +39,14 @@ python pipeline.py
 
 | 장면 | 설명 |
 |---|---|
-| scene_01 | 버스 좌석에 앉아 졸고 있는 모습 (medium shot, eye-level) |
-| scene_02 | 컴퓨터 앞에서 게임을 하는 모습 (wide shot, key light) |
-| scene_03 | 바다 속 돌고래들이 산호 위를 지나가는 장면 (wide shot, high angle) |
-| scene_04 | 갯바위에서 낚시하는 낚시꾼 (medium shot, back light) |
+| scene_01 | 버스 좌석에 앉아 창가에 기대어 졸면서 갔다. (
+        "medium shot",
+        "eye-level",
+        "soft window light") |
+| scene_02 | 창밖의 따뜻한 빛이 조용히 얼굴 위로 스며들었다. (
+        "50mm lens",
+        "warm sunset light",
+        "dreamy watercolor travel diary mood") |
 
 ## 파일 구조
 

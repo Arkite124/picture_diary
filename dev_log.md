@@ -37,11 +37,11 @@ emotional diary illustration, soft light, dreamy pastel palette, quiet nostalgic
 
 - 선택 도메인: travel
 - seed A/B: 42 / 123
-- A 호출 수: ___
-- B 호출 수: ___
-- p95_latency_s: ___
-- cost_per_image: ___
-- total_cost_usd: ___
+- A 호출 수: 3
+- B 호출 수: 3
+- p95_latency_s: 2.43 / 2.31
+- cost_per_image: 0.006 USD
+- total_cost_usd: 0.036 USD
 
 
 
